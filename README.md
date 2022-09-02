@@ -1,5 +1,6 @@
 # CityBear3
 
+###### source of borrrowing icon picture: https://www.pixiv.net/users/9212166
 ---
 
 <div>

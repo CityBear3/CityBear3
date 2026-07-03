@@ -2,6 +2,15 @@
 
 ---
 
+**Areas of interest:**
+- Agentic Engineering / Loop Engineering
+- Platform engineering and infrastructure (event-driven systems, service integration, etc.)
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+---
+
 <!-- <div>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=CityBear3&column=7&theme=onedark"/>
 </div> -->
